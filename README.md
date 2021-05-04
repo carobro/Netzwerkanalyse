@@ -9,3 +9,5 @@ werden. Die zu verwendeten Datenquellen können beispielsweide die Abfahrts-
 Analyse von zeitlichen und räumlichen Effekten von Störungen auf eine oder mehrere
 Standorte, zu welchen Zeiten ist der Standort am stärksten betroffen und welche
 Verbindungen zu welchen Regionen und Stationen sind am stärksten beeinflusst.
+
+Tutorial selber probieren unter: https://carobro.github.io/Netzwerkanalyse/
